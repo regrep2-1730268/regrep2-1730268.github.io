@@ -1,0 +1,8 @@
+    body{background-color: turquoise;}
+    h1{color:darkblue;text-align:center;Font-family:arial;font-size:40px}
+    h2{color:blue;text-align:left;Font-family:arial;font-size:32px}
+    p{color:black;text-align:left;Font-family:arial;font-size:20px}
+    div{padding-top:40px;Padding-bottom:50px;padding-right:200px}
+    p.dotted{border-style: dotted;}
+    img{float:right}
+    #rcorners1{border-radius:100px;background-color:orange;Padding:40px; }
